@@ -1,4 +1,4 @@
-## Hello! My name is Lucas Oliveira.
+## Hello! My name is Lucas Oliveira
 
 - 💻 I’m currently working on neutral networks, specifically natural language processing. 
 - 📚 I’m currently learning the concepts about LSTM networks and how it works, specifically for processing characters.  
