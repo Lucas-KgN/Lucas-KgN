@@ -1,7 +1,7 @@
 ## Hello! My name is Lucas Oliveira
 
-- 💻 I’m currently working on neutral networks, specifically natural language processing. 
-- 📚 I’m currently learning the concepts about LSTM networks and how it works, specifically for processing characters.  
+- 💻 I am a computer scientist who works in the field of data science. I have experience in projects related to creating solutions through the use of data, such as customer churn, cluster analysis, metrics development, development of artificial intelligence models, natural language processing and various exploratory analyses.
+- 📚 I have 3 years and 3 months of experience in the area of ​​data science, following the development of several projects and helping to develop their solutions.
 
  <div>
   <a href="https://github.com/Lucas-KgN/Lucas-KgN">
