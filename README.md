@@ -1,6 +1,6 @@
 ## Hi! My name is Lucas Oliveira
 
-- 💻 I am a computer scientist who works in the field of data science. I have experience in projects related to creating solutions through the use of data, such as customer churn, cluster analysis, metrics development, development of artificial intelligence models, natural language processing and various exploratory analyses.
+- 💻 I am a computer scientist that works in the field of data science. I have experience in projects related to creating solutions through the use of data, such as customer churn, cluster analysis, metrics development, development of artificial intelligence models, natural language processing and various exploratory analyses.
 - 📚 I have 3 years and 3 months of experience in the area of ​​data science, following the development of several projects and helping to develop their solutions.
 
 <div>
